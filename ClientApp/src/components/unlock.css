@@ -1,0 +1,25 @@
+#btn-unlock {
+  display:block;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  /* border: 1px solid red; */
+  margin: 0 auto;
+  background-color: brown;
+  border-color: brown;
+  
+}
+
+.center h1 {
+    margin-bottom: 1em;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  /* border: 3px solid green; */
+  padding: 10px;
+  text-align: center;
+
+}
+
